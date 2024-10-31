@@ -23,7 +23,18 @@ public:
 
         return s;
     }
+
+    int test(int a){
+        return a;
+    }
+
+    int test2(int a){
+        return a;
+    }
+
 };
+
+
 // Test cases
 int main() {
     Solution solution;
